@@ -7,7 +7,7 @@ This Python script reads an input file and finds matches against a predefined se
 - Python 3.x
 
 ## Setup
-Text files are under (`txt_files`)/ directory.
+Text files are under `txt_files/` directory.
 
 ## Usage
 1. Save the predefined words and input content into `words_file.txt` and `input_file.txt` respectively.
